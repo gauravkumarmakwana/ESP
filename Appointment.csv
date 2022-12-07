@@ -1,0 +1,3 @@
+AID,PID,Problem,Doctor-Name,DID,Doctor-type,Qualification,Patient-Name,Prescription,Comment,Status
+1,1,Stomache,Deepak,11,GENERAL,MS,Ayushi,Crosin,Take rest,1
+2,3,Headache,Ankita,7,GENERAL,BAMS,Krupal,Nothing,Take some rest and drink water,1
